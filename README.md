@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/SVtxCspMV9MAAAAd/omar-sy-omar-sy-bye.gif" width="600" height="300"/>
 </div>
-## 👨‍🎓
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AJICASH?theme=dark&font=Julee)
 
