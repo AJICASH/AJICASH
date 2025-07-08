@@ -3,9 +3,9 @@
   <img src="https://media1.tenor.com/m/SVtxCspMV9MAAAAd/omar-sy-omar-sy-bye.gif" width="600" height="300"/>
 </div>
 ## 👨‍🎓
-<div align="center">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AJICASH?theme=dark&font=Julee)
-</div>
+
 <!--
 **AJICASH/AJICASH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
