@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 👨‍🎓
-## https://github.com/AJICASH/AJICASH/blob/main/README.md#leetcode-
+## [https://github.com/AJICASH/AJICASH/blob/main/README.md#leetcode-](https://leetcard.jacoblin.cool/AJICASH?theme=dark&font=Julee)
 <!--
 **AJICASH/AJICASH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
