@@ -4,7 +4,9 @@
 </div>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AJICASH?theme=dark&font=Julee)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AJICASH?theme=dark&font=Julee" alt="LeetCode Stats">
+</p>
 
 <!--
 **AJICASH/AJICASH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
